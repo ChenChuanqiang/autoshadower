@@ -7,10 +7,8 @@ http://yangyangwithgnu.github.io/
 ##谢谢
 
 **捐赠：支付宝 yangyangwithgnu@yeah.net ，支付宝二维码（左），微信二维码（右）**
-<div align="left">
+<div align="centre">
 <img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/alipay_donate_qr.png" alt=""/>
-</div>
-<div align="right">
 <img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/wechat_donate_qr.png" alt=""/><br>
 </div>
 
